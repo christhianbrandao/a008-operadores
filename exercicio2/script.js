@@ -9,7 +9,7 @@ let divisivelPeloPrimeiro = (seugundoNumero%primeiroNumero)
 
 
 
-
+*
 
 console.log(maiorQue)
 console.log(igual)
